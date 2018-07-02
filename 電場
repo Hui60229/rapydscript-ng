@@ -1,0 +1,1 @@
+pointer = arrow(pos=vector(0,2,1),      axis=vector(5,0,0), shaftwidth=1)
